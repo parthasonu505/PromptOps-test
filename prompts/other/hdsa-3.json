@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "name": "hdsa",
+  "description": "saddasd",
+  "content": "dsad",
+  "category": "other",
+  "status": "draft",
+  "environment": "development",
+  "accessLevel": "private",
+  "authorId": 1,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-28T20:17:32.825Z",
+    "updatedAt": "2026-08-28T20:17:32.825Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
