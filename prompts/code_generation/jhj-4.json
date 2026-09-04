@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "name": "jhj",
+  "description": "bjkhkj",
+  "content": "hjghjg",
+  "category": "code_generation",
+  "status": "draft",
+  "environment": "production",
+  "accessLevel": "team",
+  "authorId": 1,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-28T20:19:37.846Z",
+    "updatedAt": "2026-08-28T20:19:37.846Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
