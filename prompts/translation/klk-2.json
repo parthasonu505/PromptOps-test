@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "name": "klk",
+  "description": "kkj",
+  "content": "jh",
+  "category": "translation",
+  "status": "draft",
+  "environment": "development",
+  "accessLevel": "private",
+  "authorId": 1,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-28T19:30:10.167Z",
+    "updatedAt": "2026-08-28T19:30:10.167Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
