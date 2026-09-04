@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "name": "hj",
+  "description": "sdasda",
+  "content": "dasd",
+  "category": "data_analysis",
+  "status": "draft",
+  "environment": "development",
+  "accessLevel": "private",
+  "authorId": 2,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-28T21:49:20.029Z",
+    "updatedAt": "2026-08-28T21:49:20.029Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
