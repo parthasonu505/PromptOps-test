@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "hi",
+  "description": "hi",
+  "content": "test hi",
+  "category": "data_analysis",
+  "status": "draft",
+  "environment": "development",
+  "accessLevel": "private",
+  "authorId": 1,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-28T19:29:30.217Z",
+    "updatedAt": "2026-08-28T19:29:30.217Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
