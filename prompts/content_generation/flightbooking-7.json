@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "name": "flightbooking",
+  "description": "testdesc",
+  "content": "jhdkjsdhkjashkhdaks",
+  "category": "content_generation",
+  "status": "draft",
+  "environment": "development",
+  "accessLevel": "private",
+  "authorId": 1,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-29T09:12:29.872Z",
+    "updatedAt": "2026-08-29T09:12:29.872Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
