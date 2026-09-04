@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "name": "dsa",
+  "description": "dsadas",
+  "content": "dasdas",
+  "category": "customer_support",
+  "status": "draft",
+  "environment": "production",
+  "accessLevel": "private",
+  "authorId": 1,
+  "variables": [],
+  "metadata": {
+    "createdAt": "2026-08-28T21:20:41.968Z",
+    "updatedAt": "2026-08-28T21:20:41.968Z",
+    "usageCount": 0,
+    "rating": 0
+  }
+}
